@@ -10,6 +10,7 @@ print(imgRGB.shape)
 m=np.ones(imgRGB.shape)*0.8
 m2=np.ones(imgRGB.shape)*1.2
 
+
 #img1 = cv2.add(img,m)
 #img2 = cv2.subtract(img,m)
 
